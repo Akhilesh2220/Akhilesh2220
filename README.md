@@ -63,8 +63,7 @@
 ## Github Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=akhilesh2220&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
-
-
+![snake gif](https://github.com/Akhilesh2220/Akhilesh2220/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 
