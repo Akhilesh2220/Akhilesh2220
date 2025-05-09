@@ -17,11 +17,12 @@
 
 ## Connect with me
 
-[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40">](https://www.linkedin.com/in/akhilesh2000/)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="40">](https://www.instagram.com/Akhileshs2000/)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="40" height="40">](https://www.hackerrank.com/profile/akhileshs2220)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="40" height="40">](https://t.me/akhileshs222)&nbsp;&nbsp;
-[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/email/default.svg" width="40" height="40">](mailto:akhileshs2220@gmail.com)
+[<img src="https://github.com/Akhilesh2220/Akhilesh2220/raw/main/assets/linkedin.png" width="40" height="40">](https://www.linkedin.com/in/akhilesh2000/)&nbsp;&nbsp;
+[<img src="https://github.com/Akhilesh2220/Akhilesh2220/raw/main/assets/instagram.png" width="40" height="40">](https://www.instagram.com/Akhileshs2000/)&nbsp;&nbsp;
+[<img src="https://github.com/Akhilesh2220/Akhilesh2220/raw/main/assets/hackerrank.png" width="40" height="40">](https://www.hackerrank.com/profile/akhileshs2220)&nbsp;&nbsp;
+[<img src="https://github.com/Akhilesh2220/Akhilesh2220/raw/main/assets/telegram.png" width="40" height="40">](https://t.me/akhileshs222)&nbsp;&nbsp;
+[<img src="https://github.com/Akhilesh2220/Akhilesh2220/raw/main/assets/gmail.png" width="40" height="40">](mailto:akhileshs2220@gmail.com)
+
 
 
 
