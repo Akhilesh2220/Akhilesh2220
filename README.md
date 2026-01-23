@@ -1,7 +1,7 @@
 <div align="left">
 
 
-<h1> Hi there,  I'm <a href="https://akhilesh2220.github.io/Portfolio/"> Akhilesh S</a>. 👋 </h1><br/>
+<h1> Hi there,  I'm <a href="https://akhilesh2220.github.io/portfolio/"> Akhilesh S</a>. 👋 </h1><br/>
 <img align="right" alt="Coding" width="400" src="https://github.com/Akhilesh2220/Akhilesh2220/raw/main/assets/githubUser.gif">
 
 
