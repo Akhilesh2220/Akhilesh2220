@@ -100,7 +100,8 @@
 
 ###
 
-![snake gif](https://github.com/Akhilesh2220/Akhilesh2220/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/Akhilesh2220/Akhilesh2220/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 
